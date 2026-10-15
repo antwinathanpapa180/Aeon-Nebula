@@ -1,0 +1,6 @@
+streamlit
+supabase
+fastembed
+numpy
+pandas
+python-dotenv
